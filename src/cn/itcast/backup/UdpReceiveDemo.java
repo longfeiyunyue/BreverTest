@@ -5,7 +5,7 @@ import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.SocketException;
 
-public class UdpReceiveDemo {
+public class UdpReceiveDemo {//
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
